@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: spins
+Version: 0.2.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
+Provides-Extra: test
+Provides-Extra: dev

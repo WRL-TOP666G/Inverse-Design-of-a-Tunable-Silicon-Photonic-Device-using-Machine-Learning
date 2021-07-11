@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+setup.py
+spins.egg-info/PKG-INFO
+spins.egg-info/SOURCES.txt
+spins.egg-info/dependency_links.txt
+spins.egg-info/requires.txt
+spins.egg-info/top_level.txt
