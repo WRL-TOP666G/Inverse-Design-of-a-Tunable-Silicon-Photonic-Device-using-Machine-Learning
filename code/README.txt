@@ -1,5 +1,4 @@
-=======
-Code for ECE228 spring21 final project     
+=======    
 Reference: SPINS-B (https://github.com/stanfordnqp/spins-b)
 =======
 
